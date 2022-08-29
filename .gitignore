@@ -6,3 +6,8 @@
 node_modules
 # Ignore files related to API keys
 .env
+
+#Customization starts here
+
+#example tailwind-cdn folder
+tailwind-cdn-example

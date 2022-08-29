@@ -10,3 +10,6 @@ https://docs.npmjs.com/cli/v8/configuring-npm/package-json/
 
 Tailwind Installation
 https://tailwindcss.com/docs/installation
+
+Tailwind Tutorial
+https://wsvincent.com/learn-tailwind-css-beginners-guide/
