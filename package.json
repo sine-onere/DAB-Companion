@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "dab-companion",
   "version": "1.0.0",
   "description": "Draw a box companion app. A stopwatch app that helps people track time spent studying vs play.",
@@ -25,9 +26,26 @@
     "helper"
   ],
   "author": "Sine-onere",
-  "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sine-onere/DAB-Companion/issues"
+    "url": "https://github.com/sine-onere/DAB-Companion/issues",
+    "email" : "jessemuniz@sine-onere.com"
   },
-  "homepage": "https://github.com/sine-onere/DAB-Companion#readme"
+  "email" : "jessemuniz@sine-onere.com",
+  "url" : "http://sine-onere.com/",
+  "license": "AGPL-3.0-or-later",
+  "homepage": "https://github.com/sine-onere/DAB-Companion#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "funding": [
+    {
+      "type" : "individual",
+      "url" : "http://sine-onere.com/donate"
+    },
+    {
+      "type" : "patreon",
+      "url" : "https://www.patreon.com/sineonere"
+    }
+  ]
+
 }

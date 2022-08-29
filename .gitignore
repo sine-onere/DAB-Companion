@@ -1,2 +1,8 @@
-#Ignore reference projects
-/SimilarProjects
+#Boilerplate .gitignore
+#Author: Sine-Onere
+#Last Modified 8/29/2022 
+
+# Ignore node_modules folder
+node_modules
+# Ignore files related to API keys
+.env
