@@ -1,0 +1,33 @@
+{
+  "name": "dab-companion",
+  "version": "1.0.0",
+  "description": "Draw a box companion app. A stopwatch app that helps people track time spent studying vs play.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sine-onere/DAB-Companion.git"
+  },
+  "keywords": [
+    "DAB",
+    "dab",
+    "companion",
+    "draw",
+    "drawabox",
+    "timer",
+    "stopwatch",
+    "helper",
+    "history",
+    "logging",
+    "tracker",
+    "helper"
+  ],
+  "author": "Sine-onere",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sine-onere/DAB-Companion/issues"
+  },
+  "homepage": "https://github.com/sine-onere/DAB-Companion#readme"
+}
