@@ -5,7 +5,7 @@
   "description": "Draw a box companion app. A stopwatch app that helps people track time spent studying vs play.",
   "main": "index.js",
   "scripts": {
-    "postcss": "postcss tailwind.css -o public/build/tailwind.css",
+    "postcss": "postcss css/tailwind.css -o src/tailwind.css",
     "test": "test"
   },
   "repository": {
